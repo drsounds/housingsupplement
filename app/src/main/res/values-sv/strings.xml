@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bostadstillägg</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Inställningar</string>
+    <string name="income_employment">Arbetsinkomst</string>
+    <string name="income_social_insurance">Inkomster från sjuk och aktivitetsersättning</string>
+    <string name="income_from_savings">Inkomst av kapital</string>
+    <string name="savings">Likvida besparingar</string>
+    <string name="rent">Hyra</string>
+    <string name="expenditures">Utgifter</string>
+    <string name="incomes">Inkomster</string>
+    <string name="assets">Banktillgodohavanden</string>
+    <string name="stocks">Aktier</string>
+    <string name="pensions">Pension</string>
+    <string name="study_benefit">Studiebidrag</string>
+    <string name="labour_market_income">Aktivitetsstöd</string>
+    <string name="action_save">Spara</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="title_section1">Inkomster</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+    <string name="action_add_application">Ny ansökan</string>
+</resources>

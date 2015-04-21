@@ -1,0 +1,11 @@
+<resources>
+    <color name="tertiary_color">#0297ba</color>
+    <color name="secondary_color">#008e5b</color>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/secondary_color</item>
+        <item name="colorAccent">@color/secondary_color</item>
+    </style>
+
+</resources>

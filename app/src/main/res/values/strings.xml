@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HousingSupplement</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="income_employment">Employment income</string>
+    <string name="income_social_insurance">Income from social security (Försäkringskassan)</string>
+    <string name="income_from_savings">Income by capital</string>
+    <string name="savings">Savings</string>
+    <string name="rent">Rent</string>
+    <string name="expenditures">Expenditures</string>
+    <string name="incomes">Incomes</string>
+    <string name="assets">Assets</string>
+    <string name="stocks">Stocks</string>
+    <string name="pensions">Pensions</string>
+    <string name="study_benefit">Study allowance (Studiebidrag)</string>
+    <string name="labour_market_income">Labour market income</string>
+    <string name="action_save">Save</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="title_section1">Incomes</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+    <string name="action_add_application">Add application</string>
+</resources>
